@@ -76,7 +76,7 @@ Surrogate/Reduced-Order modeling
 - [CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence](https://arxiv.org/abs/2403.05940)
 - [DySLIM: Dynamics Stable Learning by Invariant Measure for Chaotic Systems](https://arxiv.org/abs/2402.04467)
 - [Divide and conquer: Learning chaotic dynamical systems with multistep penalty neural ordinary differential equations](https://www.sciencedirect.com/science/article/abs/pii/S0045782524006972)
-- [Interpretable A-posteriori error indication for graph neural network surrogate models](https://www.sciencedirect.com/science/article/abs/pii/S0045782524007631) ****
+- [Interpretable A-posteriori error indication for graph neural network surrogate models](https://www.sciencedirect.com/science/article/abs/pii/S0045782524007631)
 - [Surrogate modeling of parameterized multi-dimensional premixed combustion with physics-informed neural networks for rapid exploration of design space](https://www.sciencedirect.com/science/article/abs/pii/S0010218023004698)
 - [Machine learning for physics-informed generation of dispersed multiphase flow using generative adversarial networks](https://link.springer.com/article/10.1007/s00162-021-00593-9)
 - [AROMA: Preserving Spatial Structure for Latent PDE Modeling with Local Neural Fields](https://arxiv.org/abs/2406.02176)
