@@ -58,6 +58,7 @@ Closure  Modeling
 - [Importance of equivariant and invariant symmetries for fluid flow modeling](https://arxiv.org/abs/2307.05486)
 - [Learning to correct spectral methods for simulating turbulent flows](https://arxiv.org/abs/2207.00556)
 - [Machine learning–accelerated computational fluid dynamics](https://www.pnas.org/doi/abs/10.1073/pnas.2101784118)
+- [Multiphase Turbulence Modeling Using Sparse Regression and Gene Expression Programming](https://www.tandfonline.com/doi/abs/10.1080/00295450.2023.2178251)
 
 Surrogate/Reduced-Order modeling
 
