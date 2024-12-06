@@ -59,6 +59,7 @@ Closure  Modeling
 - [Learning to correct spectral methods for simulating turbulent flows](https://arxiv.org/abs/2207.00556)
 - [Machine learning–accelerated computational fluid dynamics](https://www.pnas.org/doi/abs/10.1073/pnas.2101784118)
 - [Multiphase Turbulence Modeling Using Sparse Regression and Gene Expression Programming](https://www.tandfonline.com/doi/abs/10.1080/00295450.2023.2178251)
+- [Parallel implementation and performance of super-resolution generative adversarial network turbulence models for large-eddy simulation](https://www.sciencedirect.com/science/article/pii/S0045793024003293)
 
 Surrogate/Reduced-Order modeling
 
